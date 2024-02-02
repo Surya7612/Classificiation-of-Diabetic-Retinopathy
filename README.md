@@ -18,7 +18,7 @@ RetinaSpec is a cutting-edge tool designed for the precise classification of Dia
 ### Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourgithubprofile/RetinaSpec.git
+git clone https://github.com/Surya7612/Classificiation-of-Diabetic-Retinopathy.git
 ```
 Install the required dependencies:
 ```bash
