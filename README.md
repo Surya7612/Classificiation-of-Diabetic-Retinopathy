@@ -1,6 +1,6 @@
 # RetinaSpec: Diabetic Retinopathy Classification
 ## Overview
-RetinaSpec is a cutting-edge tool designed for the precise classification of Diabetic Retinopathy severity levels through deep learning techniques. Developed from January 2021 to July 2021, this project leverages the power of transfer learning and an ensemble of state-of-the-art models to analyze retina images, providing a significant tool in the fight against this vision-threatening disease.
+RetinaSpec is a cutting-edge tool designed for the precise classification of Diabetic Retinopathy severity levels through deep learning techniques. This project leverages the power of transfer learning and an ensemble of state-of-the-art models to analyze retina images, providing a significant tool in the fight against this vision-threatening disease.
 
 ## Features
 **Advanced Classification Accuracy**: Utilizes an ensemble approach combining VGG16, ResNet50, DenseNet201, InceptionV3, InceptionResNetV2, and Xception models for high accuracy.
